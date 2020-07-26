@@ -1,6 +1,12 @@
 # spoof-mailer
 This is a php based website that helps you to send spoofed emails.
 
+NOTE: This is a simple PHP E-Mailer, please run this on a webserver, apache is 
+not the recommended for this.
+
+Just run it on webserver and enjoy, it doesn't require any huge dependencies or expert technique to operate
+
+
 ### ### ### ### ### ### ### USER AGREEMENT LICENSE ### ### ### ### ### ### ###
 
 ###     USE THIS MAILER ONLY FOR LEGAL PURPOSES (I ADVISE NO ILLEGA USE)     ###
@@ -16,8 +22,3 @@ This is a php based website that helps you to send spoofed emails.
 ###     PURPOSES, USE IT ON TARGETS YOU DON'T LINK OR YOU MAY HARM         ###
 
 ### ### ### ### ### ### ### USER AGREEMENT LICENSE ### ### ### ### ### ### ###
-
-NOTE: This is a simple PHP E-Mailer, please run this on a webserver, apache is 
-not the recommended for this.
-
-Just run it on webserver and enjoy, it doesn't require any huge dependencies or expert technique to operate
