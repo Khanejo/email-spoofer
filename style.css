@@ -1,0 +1,66 @@
+body {
+    background-color: black;
+}
+
+.input {
+    border-style: ridge;
+    color:black;
+    padding: 5px 10px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    margin: 4px 2px;
+    cursor: pointer;
+}
+
+.textarea {
+    border-style: ridge;
+    color:black;
+    padding: 5px 10px;
+    text-align: left;
+    text-decoration: none;
+    display: inline-block;
+    margin: 4px 2px;
+    cursor: pointer;
+}
+
+
+.submit {
+    border-style: ridge;
+    color:  white;
+    padding: 16px 32px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    margin: 4px 2px;
+    cursor: pointer;
+
+}
+
+.text {
+    border-style: ridge;
+    color: black;
+    padding: 5px 10px;
+    text-align: center;
+    text-decoration: none;
+    text-size-adjust: 20px;
+    display: inline-block;
+    margin: 4px 2px;
+    cursor: pointer;
+}
+
+.email {background-color: seagreen;}
+
+.send_mail {background-color: blue;}
+
+.mail_from {background-color: seagreen;}
+
+.mail_to {background-color: seagreen;}
+
+.subject {background-color: seagreen;}
+
+.message {background-color: seagreen}
+
+.submit {background-color: blue;}
+
+.count {background-color: seagreen;}

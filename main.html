@@ -1,0 +1,55 @@
+<!DOCTYPE html>
+
+<html lang="en">
+    <head>
+        <title>PHP Mailer</title>
+        <link rel="stylesheet" type="text/css" href="style.css">
+    </head>
+    <style>
+        a {text-align: center;}
+        h1 {text-align: center;}
+        p {text-align: center; color:white;}
+        div {text-align: center;}
+        input {text-align: center;}
+        h3 {text-align: center;}
+    </style>
+    <body>
+        <b>
+            <br><br><hr><br><br>
+            <h1 style="color: rgb(255, 0, 0); font-family:'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif ;">PHP Mailer</h1>    
+            <h3 style="color: darkgreen; font-family:monospace; text-align: center;">
+This is a simple PHP E-Mailer, please run this on a webserver, apache is 
+not the recommended for this.</h3>
+            <br><br><hr><br>
+        </b>
+	
+        <!-- <p style="text-align: center;"> --> 
+        <form style="text-align: center;" action="mail.php" method="POST" name="send_mail">
+            <!-- <input class="input email" type="text" name="email" placeholder=" E-Mail"/> -->
+            <br>
+            <input class="input mail_to" type="text" name="mail_to" placeholder="Send To Mail">
+            <br>
+            <input class="input mail_from" type="text" name="mail_from" placeholder="Mail From (Spoofed)">
+            <br>
+            <input class="input subject" type="text" name="subject" placeholder="Subject">
+            <br>
+            <textarea style="align-text: left;" class="textarea message" name="message" cols="40" rows="5" placeholder="Message"></textarea>
+            <br>
+            <input class="input count" type="text" name="count" placeholder="Number Of MSGs (max. 500)">
+            <br>
+            <input class="accept" type="checkbox">
+            <a href="license.html" title="User Agreement"> Agree User License</a>
+            <br>
+            <br>
+            <input class="submit submit" type="submit" name="submit" placeholder="Send Mail"> 
+        </form>
+        <br><hr><br><br>
+        <b>
+            <p style="font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif; text-align: center;">
+            
+            </p>
+        </b>
+        <br><br><hr><br><br>
+    </body>
+
+</html>
