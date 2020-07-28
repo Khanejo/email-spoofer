@@ -15,10 +15,10 @@ Just run it on webserver and enjoy, it doesn't require any huge dependencies or 
 
 ###     CARE ABOUT YOUR PRIVACY, THIS MAILER IS 100% WORKING AND IT IS     ###
 
-###     ANONYMIZED ONLY THE SERVER IP WILL BE DISPLAYED IN THE MAIL NOT    ###
+###     ANONYMIZED, ONLY THE SERVER IP WILL BE DISPLAYED IN THE MAIL NOT    ###
 
 ###     YOUR OWN IP ADDRESS. HAVE FUN TO USE THIS MAILER FOR PRIVACY       ###
 
-###     PURPOSES, USE IT ON TARGETS YOU DON'T LINK OR YOU MAY HARM         ###
+###     PURPOSES                                                           ###
 
 ### ### ### ### ### ### ### USER AGREEMENT LICENSE ### ### ### ### ### ### ###
