@@ -49,18 +49,18 @@ body {
     cursor: pointer;
 }
 
-.email {background-color: seagreen;}
+.email {background-color: white;}
 
 .send_mail {background-color: blue;}
 
-.mail_from {background-color: seagreen;}
+.mail_from {background-color: white;}
 
-.mail_to {background-color: seagreen;}
+.mail_to {background-color: white;}
 
-.subject {background-color: seagreen;}
+.subject {background-color: white;}
 
-.message {background-color: seagreen}
+.message {background-color: white;}
 
 .submit {background-color: blue;}
 
-.count {background-color: seagreen;}
+.count {background-color: white;}
